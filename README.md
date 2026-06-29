@@ -1,16 +1,77 @@
-## Hi there 👋
+Hi there 👋, I'm Abhinandan Shukla
 
-<!--
-**abhinandanshukla999-hash/abhinandanshukla999-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Second-Year Engineering Student from India with a passion for Software Development and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on strengthening my programming fundamentals, mastering Data Structures & Algorithms in Java, and building real-world web applications.
+
+I believe in learning by building, continuously improving my coding skills, and contributing to meaningful projects.
+
+
+💻 Tech Stack
+
+Languages
+
+Java
+C
+ HTML
+ CSS
+
+ Currently Learning
+
+ Data Structures & Algorithms (Java)
+ JavaScript
+ Git & GitHub
+ Operating Systems
+ Computer Networks
+ Cryptography
+ Responsive Web Development
+
+Tools
+
+ VS Code
+ Git
+ GitHub
+
+
+
+🌱 Current Goals
+
+ Solve DSA problems consistently
+ Build full-stack web applications
+ Contribute to Open Source
+ Learn Backend Development
+ Explore System Design fundamentals
+ Secure a Software Engineering Internship
+
+
+ 📚 Interests
+
+ Software Engineering
+ Web Development
+ Cyber Security
+ Open Source
+ Problem Solving
+ Computer Science Fundamentals
+
+ 📈 What I'm Working On
+
+ Building responsive web projects
+ Improving Java programming skills
+ Learning advanced DSA
+ Practicing Git and GitHub workflows
+ Exploring software development best practices
+
+🤝 Let's Connect
+
+ LinkedIn: https://www.linkedin.com/in/abhinandan-shukla-28a29033b/
+ GitHub: https://github.com/abhinandanshukla999-hash
+ Email: abhinandanshukla999@gmail.com
+
+---
+
+⭐ "Code. Learn. Build. Improve. Repeat."
+
+
+
