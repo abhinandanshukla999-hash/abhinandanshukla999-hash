@@ -1,77 +1,135 @@
-Hi there 👋, I'm Abhinandan Shukla
+# Hi there 👋, I'm Abhinandan Shukla
 
-🚀 About Me
+### Engineering Student | Full Stack Web Developer | Java & DSA Learner | Open Source Enthusiast
 
-I'm a Second-Year Engineering Student from India with a passion for Software Development and Problem Solving.
-
-Currently, I'm focused on strengthening my programming fundamentals, mastering Data Structures & Algorithms in Java, and building real-world web applications.
-
-I believe in learning by building, continuously improving my coding skills, and contributing to meaningful projects.
-
-
-💻 Tech Stack
-
-Languages
-
-Java
-C
- HTML
- CSS
-
- Currently Learning
-
- Data Structures & Algorithms (Java)
- JavaScript
- Git & GitHub
- Operating Systems
- Computer Networks
- Cryptography
- Responsive Web Development
-
-Tools
-
- VS Code
- Git
- GitHub
-
-
-
-🌱 Current Goals
-
- Solve DSA problems consistently
- Build full-stack web applications
- Contribute to Open Source
- Learn Backend Development
- Explore System Design fundamentals
- Secure a Software Engineering Internship
-
-
- 📚 Interests
-
- Software Engineering
- Web Development
- Cyber Security
- Open Source
- Problem Solving
- Computer Science Fundamentals
-
- 📈 What I'm Working On
-
- Building responsive web projects
- Improving Java programming skills
- Learning advanced DSA
- Practicing Git and GitHub workflows
- Exploring software development best practices
-
-🤝 Let's Connect
-
- LinkedIn: https://www.linkedin.com/in/abhinandan-shukla-28a29033b/
- GitHub: https://github.com/abhinandanshukla999-hash
- Email: abhinandanshukla999@gmail.com
+I'm a passionate engineering student who enjoys building web applications, solving programming problems, and continuously learning new technologies. I believe in learning by building real-world projects and improving my skills every day.
 
 ---
 
-⭐ "Code. Learn. Build. Improve. Repeat."
+## 🚀 About Me
 
+* 🎓 Engineering Student
+* 💻 Passionate about Software Development
+* 🌱 Currently learning **Data Structures & Algorithms with Java**
+* 🌐 Exploring **Full Stack Web Development**
+* 🔍 Interested in AI, Web Technologies, and Problem Solving
+* 🤝 Open to collaborations on interesting projects
+* 📚 Always learning something new
 
+---
 
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* C
+* JavaScript
+* HTML5
+* CSS3
+* SQL
+
+### Web Development
+
+* Responsive Web Design
+* DOM Manipulation
+* REST API Integration
+* JSON
+* Git & GitHub
+
+### Currently Learning
+
+* Data Structures & Algorithms
+* Advanced JavaScript
+* React
+* Backend Development
+* Database Design
+
+---
+
+## 📂 Featured Projects
+
+### 🧮 Calculator
+
+A responsive calculator built using HTML, CSS, and JavaScript with a clean user interface and efficient arithmetic operations.
+
+**Tech Used**
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+### 🌐 Portfolio Website
+
+A personal portfolio showcasing my skills, projects, and learning journey with a responsive design.
+
+---
+
+### 💻 More Projects Coming Soon...
+
+I believe in quality over quantity. Every new project is an opportunity to learn something valuable and write better code.
+
+---
+
+## 📖 What I'm Learning
+
+* Data Structures & Algorithms
+* Java Programming
+* Problem Solving
+* Full Stack Development
+* API Integration
+* Database Management
+* Software Development Best Practices
+
+---
+
+## 🎯 Goals for 2026
+
+* Build impactful real-world projects
+* Strengthen DSA and problem-solving skills
+* Contribute to Open Source
+* Learn React and Backend Development
+* Improve System Design knowledge
+* Secure a Software Development Internship
+
+---
+
+## 📊 GitHub Stats
+
+> abhinandanshukla999-hash
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username)
+```
+
+---
+
+## 📈 My Learning Philosophy
+
+> "Every project teaches something that no tutorial can."
+
+I enjoy transforming ideas into practical applications and improving my coding skills through continuous practice, experimentation, and real-world development.
+
+---
+
+## 🤝 Let's Connect
+
+* GitHub: https://github.com/abhinandanshukla999-hash
+* LinkedIn: https://linkedin.com/in/abhinandan-shukla-28a29033b
+* Email: abhinandanshukla999@gmail.com
+
+---
+
+## 💡 Fun Fact
+
+I enjoy exploring how websites work behind the scenes, from frontend interfaces to backend logic, APIs, and databases.
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, and if you find something interesting, consider giving it a star.
