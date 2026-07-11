@@ -96,20 +96,6 @@ I believe in quality over quantity. Every new project is an opportunity to learn
 
 ---
 
-## 📊 GitHub Stats
-
-> abhinandanshukla999-hash
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username)
-```
-
----
-
 ## 📈 My Learning Philosophy
 
 > "Every project teaches something that no tutorial can."
